@@ -1,0 +1,6 @@
+pyttsx3
+speechrecognition
+sounddevice
+numpy
+openai       # for GPT integration
+requests     # useful for APIs

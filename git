@@ -1,0 +1,19 @@
+# Virtual environment
+venv/
+
+# Python cache and compiled files
+__pycache__/
+*.pyc
+
+# Environment variables and secrets
+.env
+
+# Logs and temporary files
+*.log
+
+# Wheel files and build artifacts
+*.whl
+
+# OS-specific files
+.DS_Store
+Thumbs.db
